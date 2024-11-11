@@ -4,27 +4,31 @@
 *Научиться верстать при помощью LaTeX*
 ### Задание:
 Сверстать три страницы научной статьи с использованием системы верстки текстов TeX.
-На странице (https://proc.ostis.net/proc/Proceedings%20OSTIS-2024.pdf) необходимо взять доклад, соответствующий варианту индивидуального задания.Доклад представлен в форме статьи в формате *.pdf.
+[На странице](https://proc.ostis.net/proc/Proceedings%20OSTIS-2024.pdf) необходимо взять доклад, соответствующий варианту индивидуального задания.Доклад представлен в форме статьи в формате *.pdf.
 Для написания формального текста предлагается воспользоваться пакетом макросов “scn-latex”. Для оформления списка источников использовать \bibliography команду
 
 ### Основные команды:
 * `\par` - абзац
-* `\begin{itemize} ... \end{itemize}` - список без нумерации* \fontsize{10}{13}\selectfont - первое — это размер шрифта в pt, второе — расстояние между строками в pt
+* `\begin{itemize} ... \end{itemize}` - список без нумерации
+* `\fontsize{10}{13}\selectfont` - первое — это размер шрифта в pt, второе — расстояние между строками в pt
 * `\begin{multicols}{2} ... \end{multicols}` - разделяет текст на две колонки
-*  `\setlength\parindent{10pt}` - устанавливает отступ обзаца
-  Более подробно с _LaTex_ можно ознакомиться по ссылке (https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-  ![](.png)
-  ![](.png)
+* `\setlength\parindent{10pt}` - устанавливает отступ обзаца
+  
+  Более подробно с _LaTex_ можно ознакомиться [по ссылке](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+  
+  ![](lif2.png)
+  ![](lif1.png)
 ### Прилагаемые файлы/ссылки:
-* main.tex (https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/main.tex) - исходный файл вёрстки
-* lab_nastya_1.pdf (https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/lab_nastya_1.pdf) - готовый pdf-файл с вёрсткой
-* Гайд (https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) от создателей overleaf(LaTeX за 30 минут)
+* [main.tex](https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/main.tex) - исходный файл вёрстки
+* [lab_nastya_1.pdf](https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/lab_nastya_1.pdf) - готовый pdf-файл с вёрсткой
+* [Гайд](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) от создателей overleaf(LaTeX за 30 минут)
 # Лабараторная работа №3
 ### Цель:
 *Ознакомится с системой управлениями версиями Git и веб-сервисом GitHub*
 ### Задание:
 Получить практические навыки работы в консоли, использования консольных команд.
-Задания по гиту (https://docs.google.com/document/d/1pkqZWOlte5j6PuPpz7w03tPkw64ctuUwELoI-qctYVQ/edit?tab=t.0)
+[Задания по гиту](https://docs.google.com/document/d/1pkqZWOlte5j6PuPpz7w03tPkw64ctuUwELoI-qctYVQ/edit?tab=t.0)
 Для сдачи работы необходимо выполнить все задания и составить отчёт с тем, как эти задания выполнялись
 ### Основные команды Git:
 * `git init` - инициализация нового репозитория* git status - проверка файлов на индексирование и наличие его в репозитории
