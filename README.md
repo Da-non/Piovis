@@ -13,8 +13,8 @@
 * `\begin{multicols}{2} ... \end{multicols}` - разделяет текст на две колонки
 *  `\setlength\parindent{10pt}` - устанавливает отступ обзаца
   Более подробно с _LaTex_ можно ознакомиться по ссылке (https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-  ![](over1.png)
-  ![](over2.png)
+  ![](.png)
+  ![](.png)
 ### Прилагаемые файлы/ссылки:
 * main.tex (https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/main.tex) - исходный файл вёрстки
 * lab_nastya_1.pdf (https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/lab_nastya_1.pdf) - готовый pdf-файл с вёрсткой
