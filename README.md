@@ -20,8 +20,8 @@
   ![](lif2.png)
   ![](lif1.png)
 ### Прилагаемые файлы/ссылки:
-* [main.tex](https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/main.tex) - исходный файл вёрстки
-* [lab_nastya_1.pdf](https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/lab_nastya_1.pdf) - готовый pdf-файл с вёрсткой
+* [лаба 1-.tex](https://github.com/Da-non/Piovis/blob/main/лаба%201-.tex) - исходный файл вёрстки
+* [1.pdf](https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/lab_nastya_1.pdf) - готовый pdf-файл с вёрсткой
 * [Гайд](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) от создателей overleaf(LaTeX за 30 минут)
 # Лабараторная работа №3
 ### Цель:
