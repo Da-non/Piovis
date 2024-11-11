@@ -21,7 +21,7 @@
   ![](lif1.png)
 ### Прилагаемые файлы/ссылки:
 * [лаба 1-.tex](https://github.com/Da-non/Piovis/blob/main/лаба%201-.tex) - исходный файл вёрстки
-* [1.pdf](https://github.com/iis-42x70x/RPIIS/blob/Щурко_А/sem1/laba3/lab_nastya_1.pdf) - готовый pdf-файл с вёрсткой
+* [1.pdf](https://github.com/Da-non/Piovis/blob/main/1.pdf) - готовый pdf-файл с вёрсткой
 * [Гайд](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) от создателей overleaf(LaTeX за 30 минут)
 # Лабараторная работа №3
 ### Цель:
@@ -36,6 +36,6 @@
 ![](i.webp)
 ### Работа с удаленными хостингами
 Популярным хостингом для хранения удаленных репозиториев является *__GitHub__*.
-Чтоб начать работу с ним, можно изучить данную страницу (https://ru.hexlet.io/courses/intro_to_git/lessons/github/theory_unit).
+Чтоб начать работу с ним, можно изучить [данную страницу](https://ru.hexlet.io/courses/intro_to_git/lessons/github/theory_unit).
 ### Вывод:
 С помощью Git можно фиксировать изменения в проекте на локальном уровне и при необходимости возвращаться к предыдущим версиям. Также можно создать резервную копию на удалённом сервере, поддерживающем Git, и делиться результатами с другими пользователями.
