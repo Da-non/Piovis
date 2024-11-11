@@ -15,6 +15,7 @@
 * `\begin{multicols}{2} ... \end{multicols}` - разделяет текст на две колонки
 * `\setlength\parindent{10pt}` - устанавливает отступ обзаца
 * `\textbf` -жирный текст
+* `\begin{center}...\end{center} -выравнивание по центру
   
   Более подробно с _LaTex_ можно ознакомиться [по ссылке](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
